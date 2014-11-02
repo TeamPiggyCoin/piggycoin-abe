@@ -41,11 +41,10 @@ safe.  Abe may need some fixes to avoid skipping blocks while current
 and future Bitcoin versions run.
 
 NovaCoin and CryptoCash support depends on the ltc_scrypt module
-available from https://github.com/CryptoManiac/bitcoin-abe (see
-README-SCRYPT.txt).
+(see README-SCRYPT.txt, ltc_scrypt included in this repo)
 
 Hirocoin (and any other X11) support depends on the xcoin_hash module
-available from https://github.com/evan82/xcoin-hash.
+(see README-XCOIN_HASHT.txt, xcoin_hash included in this repo)
 
 Bitleu (a Scrypt-Jane coin) depends on the yac_scrypt module.
 
