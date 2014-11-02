@@ -82,6 +82,8 @@ CHAIN_CONFIG = [
     #{"chain":"Maxcoin"},
     {"chain":"OldPiggyCoin", "policy":"Sha256Chain",
      "code3":"PIG", "address_version":"\x0f"},
+    {"chain":"NewPiggyCoin", "policy":"X11PosChain",
+     "code3":"PIGGY", "address_version":"\x76"},
     #{"chain":"",
     # "code3":"", "address_version":"\x", "magic":""},
     ]
